@@ -150,7 +150,6 @@ cd SolarPINN
 
 ```
 pip install -r requirements.txt
-pip install gdown
 ```
 
 ---
